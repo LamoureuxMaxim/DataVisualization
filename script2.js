@@ -152,7 +152,7 @@ const columnDisplayName = {
     "Generosity": "Generosity",
     "Perceptions of corruption": "Perceptions of Corruption (negative correlation)",
     "EPI.new": "EPI Score",
-    "HLT.new": "Health Score",
+    "HLT.new": "Environmental Health",
     "AIR.new": "Air Quality Score",
     "H2O.new": "Water Quality Score",
     "COE.new": "CO2 Emissions Score",
@@ -278,7 +278,7 @@ document.getElementById('back-button').addEventListener('click', function() {
                 <option value="Generosity">Generosity</option>
                 <option value="Perceptions of corruption">Perceptions of Corruption</option>
                 <option value="EPI.new">EPI Score</option>
-                <option value="HLT.new">Health Score</option>
+                <option value="HLT.new">Environmental Health</option>
                 <option value="AIR.new">Air Quality Score</option>
                 <option value="H2O.new">Water Quality Score</option>
                 <option value="COE.new">CO2 Emissions Score</option>
